@@ -7,5 +7,7 @@ public class Ma {
         Nani n = new Nani("Gu");
         System.out.println(n.Koi());
         System.out.println(n.KiKhay());
+        Nani n1 = new Nani("Vaat");
+        System.out.println(n1.KiKhay());
     }
 }
